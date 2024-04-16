@@ -1,6 +1,6 @@
 {
     "name": "LC_Television_Unlock",
-    "version_number": "1.0.0.0",
+    "version_number": "1.0.0",
     "website_url": "https://github.com/kylefohrman/LC_Television_Unlock",
     "description": "Automatically unlocks the Television on new game start.",
     "dependencies": [

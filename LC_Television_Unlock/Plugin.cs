@@ -17,7 +17,7 @@ namespace LC_Television_Unlock
     {
         private const string modGUID = "Robopirate.LCTelevisionUnlock";
         private const string modName = "LCTelevisionUnlock";
-        private const string modVersion = "1.0.0.0";
+        private const string modVersion = "1.0.0";
 
         private readonly Harmony harmony = new Harmony(modGUID);
 

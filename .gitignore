@@ -1,1 +1,6 @@
 .vs/
+*.zip
+*.pdb
+LC_Television_Unlock/bin/
+LC_Television_Unlock/obj/
+LC_Television_Unlock/Properties/
