@@ -31,6 +31,7 @@ namespace LC_Television_Unlock
 
             List<UnlockableItem> unlockablesList = StartOfRound.Instance.unlockablesList.unlockables;
 
+            // Search for Television in unlockables list
             foreach(UnlockableItem unlockable in unlockablesList)
             {
                 var unlockableName = unlockable.unlockableName;

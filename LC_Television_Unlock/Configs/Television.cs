@@ -20,7 +20,7 @@ namespace LC_Television_Unlock
 
         private TelevisionConfigManager(ConfigFile config)
         {
-            Television = config.Bind("Decorations", "Television", true, "Unlock the television on new save.");
+            Television = config.Bind("Decorations", "Television", true, "Unlock the television on new save.\nSet to false if you want to disable this mod.");
         }
     }
 }
