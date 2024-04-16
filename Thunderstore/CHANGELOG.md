@@ -5,3 +5,7 @@ Initial release
 # 1.0.1
 
 Forgot to upload the .dll, whoopsies
+
+# 1.0.2
+
+Attributions
