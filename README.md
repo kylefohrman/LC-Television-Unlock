@@ -1,5 +1,5 @@
 # LC-Television-Unlock
-Auto-unlocks the television on game start. 800 current users.
+Auto-unlocks the television on game start.
 
 Useful for testing out TV video mods.
 
